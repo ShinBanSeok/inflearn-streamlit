@@ -1,2 +1,5 @@
 bottle==0.13.2
 six==1.17.0
+streamlit
+python-dotenv
+openai
